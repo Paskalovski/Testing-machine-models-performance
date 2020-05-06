@@ -1,4 +1,4 @@
-### Testing Algorithms performance 
+## Testing Algorithms performance 
 
 #### The idea is to test 3 types of machine algorithms for variable performance aspects and chose the best one
 #### Prediction Task: 
